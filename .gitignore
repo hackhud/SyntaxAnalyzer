@@ -1,5 +1,9 @@
 ### IntelliJ IDEA ###
 out/
+.gradle/
+build/
+.idea/workspace.xml
+.idea/copilot.data.migration.ask2agent.xml
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
